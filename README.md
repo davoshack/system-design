@@ -4,3 +4,4 @@ Technical Stuff about Programming, AI Engineering, Full Stack Development, Machi
 
 ## AI Engineering
 - [MCP vs. A2A: Friends or Foes?](https://www.newsletter.swirlai.com/p/mcp-vs-a2a-friends-or-foes)
+- [Evaluation Driven Development for Agentic Systems](https://www.newsletter.swirlai.com/p/evaluation-driven-development-for)

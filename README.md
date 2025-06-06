@@ -7,3 +7,6 @@ Technical Stuff about Programming, AI Engineering, Full Stack Development, Machi
 - [Evaluation Driven Development for Agentic Systems](https://www.newsletter.swirlai.com/p/evaluation-driven-development-for)
 - [6 advanced concepts to use with FastAPI & Pydantic](https://multimodalai.substack.com/p/start-using-these-6-advanced-concepts)
 - [The evolution of Modern RAG Architectures](https://www.newsletter.swirlai.com/p/the-evolution-of-modern-rag-architectures)
+
+## Python
+- [What I've learned after 8 years of Python](https://multimodalai.substack.com/p/what-ive-learned-after-8-years-of)
